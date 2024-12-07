@@ -1,0 +1,136 @@
+Uri: https://api-maps.yandex.ru/2.1.17/?lang=ru_RU
+File Name: C:\Downloaded Web Sites\productcenter.ru\2.1.17\json.txt
+Content Type: application/javascript
+
+Uri: https://mc.yandex.ru/watch/156713/1
+File Name: C:\Downloaded Web Sites\productcenter.ru\watch\156713\1
+Content Type: image/gif
+
+Uri: https://productcenter.ru/css/style-v43.css
+File Name: C:\Downloaded Web Sites\productcenter.ru\css\style-v43.css
+Content Type: text/css
+
+Uri: https://productcenter.ru/favicon.svg
+File Name: C:\Downloaded Web Sites\productcenter.ru\favicon.svg
+Content Type: image/svg+xml
+
+Uri: https://productcenter.ru/images/326037-kompaniia-bogorodskiie-dielikatiesy-90x66.png
+File Name: C:\Downloaded Web Sites\productcenter.ru\images\326037-kompaniia-bogorodskiie-dielikatiesy-90x66.png
+Content Type: image/png
+
+Uri: https://productcenter.ru/images/334399-sekirus-plazmiennyie-i-laziernyie-chpu-stanki-90x66.png
+File Name: C:\Downloaded Web Sites\productcenter.ru\images\334399-sekirus-plazmiennyie-i-laziernyie-chpu-stanki-90x66.png
+Content Type: image/png
+
+Uri: https://productcenter.ru/images/708288-viertikalnyi-frieziernyi-stanok-po-mietallu-kh110-137x100.png
+File Name: C:\Downloaded Web Sites\productcenter.ru\images\708288-viertikalnyi-frieziernyi-stanok-po-mietallu-kh110-137x100.png
+Content Type: image/png
+
+Uri: https://productcenter.ru/images/708299-avtomatichieskii-svierlilnyi-stanok-top-s2-137x100.png
+File Name: C:\Downloaded Web Sites\productcenter.ru\images\708299-avtomatichieskii-svierlilnyi-stanok-top-s2-137x100.png
+Content Type: image/png
+
+Uri: https://productcenter.ru/images/708656-muka-pshienichnaia-137x100.jpg
+File Name: C:\Downloaded Web Sites\productcenter.ru\images\708656-muka-pshienichnaia-137x100.jpg
+Content Type: image/jpeg
+
+Uri: https://productcenter.ru/images/708667-rapsovoie-maslo-nieraf-137x100.jpg
+File Name: C:\Downloaded Web Sites\productcenter.ru\images\708667-rapsovoie-maslo-nieraf-137x100.jpg
+Content Type: image/jpeg
+
+Uri: https://productcenter.ru/images/710659-pshienitsa-5-klassa-137x100.jpeg
+File Name: C:\Downloaded Web Sites\productcenter.ru\images\710659-pshienitsa-5-klassa-137x100.jpeg
+Content Type: image/jpeg
+
+Uri: https://productcenter.ru/images/735573--240x180.jpg
+File Name: C:\Downloaded Web Sites\productcenter.ru\images\735573--240x180.jpg
+Content Type: image/jpeg
+
+Uri: https://productcenter.ru/images/735722--240x180.jpg
+File Name: C:\Downloaded Web Sites\productcenter.ru\images\735722--240x180.jpg
+Content Type: image/jpeg
+
+Uri: https://productcenter.ru/images/736003-aromasviecha-v-bankie-137x100.png
+File Name: C:\Downloaded Web Sites\productcenter.ru\images\736003-aromasviecha-v-bankie-137x100.png
+Content Type: image/png
+
+Uri: https://productcenter.ru/images/736021-tlk-grupp-137x100.jpg
+File Name: C:\Downloaded Web Sites\productcenter.ru\images\736021-tlk-grupp-137x100.jpg
+Content Type: image/jpeg
+
+Uri: https://productcenter.ru/images/736053-ooo-npp-siensor-137x100.png
+File Name: C:\Downloaded Web Sites\productcenter.ru\images\736053-ooo-npp-siensor-137x100.png
+Content Type: image/png
+
+Uri: https://productcenter.ru/images/736064-riestoran-atmosfiera-vkusa-137x100.jpeg
+File Name: C:\Downloaded Web Sites\productcenter.ru\images\736064-riestoran-atmosfiera-vkusa-137x100.jpeg
+Content Type: image/jpeg
+
+Uri: https://productcenter.ru/images/736078-ooo-promburavto-137x100.jpg
+File Name: C:\Downloaded Web Sites\productcenter.ru\images\736078-ooo-promburavto-137x100.jpg
+Content Type: image/jpeg
+
+Uri: https://productcenter.ru/img/logo.svg
+File Name: C:\Downloaded Web Sites\productcenter.ru\img\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://productcenter.ru/js/ajaxfileupload.js
+File Name: C:\Downloaded Web Sites\productcenter.ru\js\ajaxfileupload.js
+Content Type: application/javascript
+
+Uri: https://productcenter.ru/js/ajaxfileupload.min.js
+File Name: C:\Downloaded Web Sites\productcenter.ru\js\ajaxfileupload.min.js
+Content Type: application/javascript
+
+Uri: https://productcenter.ru/js/jcarousellite.js
+File Name: C:\Downloaded Web Sites\productcenter.ru\js\jcarousellite.js
+Content Type: application/javascript
+
+Uri: https://productcenter.ru/js/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\productcenter.ru\js\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://productcenter.ru/js/jquery.cookie.min.js
+File Name: C:\Downloaded Web Sites\productcenter.ru\js\jquery.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://productcenter.ru/js/jquery.maskedinput.js
+File Name: C:\Downloaded Web Sites\productcenter.ru\js\jquery.maskedinput.js
+Content Type: application/javascript
+
+Uri: https://productcenter.ru/js/main-v19.js
+File Name: C:\Downloaded Web Sites\productcenter.ru\js\main-v19.js
+Content Type: application/javascript
+
+Uri: https://productcenter.ru/map
+File Name: C:\Downloaded Web Sites\productcenter.ru\map.html
+Content Type: text/html
+
+Uri: https://productcenter.ru/media/autocomplete/jquery.autocomplete.min.js
+File Name: C:\Downloaded Web Sites\productcenter.ru\media\autocomplete\jquery.autocomplete.min.js
+Content Type: application/javascript
+
+Uri: https://productcenter.ru/media/chosen/chosen.css
+File Name: C:\Downloaded Web Sites\productcenter.ru\media\chosen\chosen.css
+Content Type: text/css
+
+Uri: https://productcenter.ru/media/chosen/chosen.jquery.min.js
+File Name: C:\Downloaded Web Sites\productcenter.ru\media\chosen\chosen.jquery.min.js
+Content Type: application/javascript
+
+Uri: https://productcenter.ru/media/fancybox/jquery.fancybox.min.css
+File Name: C:\Downloaded Web Sites\productcenter.ru\media\fancybox\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://productcenter.ru/media/fancybox/jquery.fancybox.min.js
+File Name: C:\Downloaded Web Sites\productcenter.ru\media\fancybox\jquery.fancybox.min.js
+Content Type: application/javascript
+
+Uri: https://productcenter.ru/media/lightslider/lightslider.css
+File Name: C:\Downloaded Web Sites\productcenter.ru\media\lightslider\lightslider.css
+Content Type: text/css
+
+Uri: https://productcenter.ru/media/lightslider/lightslider.js
+File Name: C:\Downloaded Web Sites\productcenter.ru\media\lightslider\lightslider.js
+Content Type: application/javascript
+
